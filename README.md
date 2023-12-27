@@ -23,7 +23,7 @@ This project is a Color Scheme Generator web application built using HTML, CSS, 
 - **API Integration:** Fetches data from an external API to obtain base colors.
   
 ### Live Version
-A live version of this application is deployed and accessible [here](<insert link to live deployed version>).
+A live version of this application is deployed and accessible [here](https://658c07f638826a50b1269a2b--bespoke-unicorn-2b3ee3.netlify.app/).
 
 ### Snapshot
 <img width="446" alt="image" src="https://github.com/LilaLiang/color-scheme/assets/103416879/8a5e130b-b1a5-4859-820c-23f066df7978">
