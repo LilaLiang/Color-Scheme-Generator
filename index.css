@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding:1.5em 1em;
+    display: flex;
+    gap:1em;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    border: 1px solid #313131;
+    height:3em;
+    width:3.5em;
+}
+
+select{
+    height:3.5em;
+    font-size: 0.9rem;
+    border: 1px solid #D1D5DB;
+    border-radius:0.4em;
+    padding:0em 1em;
+    cursor: pointer;
+    width:15em;
+    appearance: none; 
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="5" viewBox="0 0 10 5"><path fill="%23000" d="M5 5L0 0h10z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px top 50%; /* 调整箭头位置 */
+}
+
+button {
+    height:3.9em;
+    cursor: pointer;
+    color: #374151;
+    background-color: white;
+    border: #D1D5DB solid 1px;
+    border-radius: 0.3em;
+    font-size: 0.8rem;
+    padding:1em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+main div {
+     height:30em;
+     width:100%;
+}
+
+main p {
+    text-align: center;
+    font-size: 0.8rem;
+    line-height: 1.5;
+}
